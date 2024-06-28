@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "WAmessanger",
+  "version": "1.0",
+  "description": "Trigvent WA bulk message sender",
+  "icons":{
+    "16":"images/icon.png",
+    "48":"images/icon.png",
+    "128":"images/icon.png"
+  },
+  "action":{
+    "default_title":"Click me",
+    "default_popup":"popup.html"
+  }
+}
